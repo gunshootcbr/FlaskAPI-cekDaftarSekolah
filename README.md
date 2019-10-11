@@ -8,6 +8,6 @@ Im doing learning about API, and now i try to create simple website to cek schoo
 - Requests
 - Bootstrap
 
-##Resource API
+## Resource API
 - http://jendela.data.kemdikbud.go.id/api/index.php/cwilayah/wilayahKabGet
 - http://jendela.data.kemdikbud.go.id/api/index.php/Csekolah/detailSekolahGET?mst_kode_wilayah=026100&bentuk=sma
